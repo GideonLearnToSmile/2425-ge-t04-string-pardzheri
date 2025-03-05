@@ -1,4 +1,4 @@
-// Gideon Benedictus Panjaitan
+// Gideon Panjaitan
 // 11S24036
 
 #include <stdio.h>
@@ -12,7 +12,7 @@ int panjang = strlen(kata);
 if (kata[panjang - 1] == '\n')
 {
   kata[panjang - 1] = '\0';
-  panjang--
+  panjang--;
 }
 
 
