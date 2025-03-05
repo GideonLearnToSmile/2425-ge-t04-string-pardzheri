@@ -1,3 +1,5 @@
+//Gideon Benedictus Panjaitan
+//11S24036
 #include <stdio.h>
 #include <string.h>
 
