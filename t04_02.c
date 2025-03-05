@@ -15,7 +15,7 @@ if (kata[panjang - 1] == '\n')
 }
 
 
-for (int i = 0; i < panjang ; i++)
+for (int i = 0; i <= panjang ; i++)
 {printf("%03d",kata[i]);}
 
   return 0;
